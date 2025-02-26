@@ -1,5 +1,9 @@
+h2{
+  font-size: 30px;
+  line-height: 1.5;
+}
 .highlight {
-  color: #ff5722;
+  color: #2de6a8;
   text-align: left;
   animation: fadeInOut 2.5s infinite;
   display: inline-block;
