@@ -5,7 +5,8 @@ h2{
 .highlight {
   color: #2de6a8;
   text-align: left;
-  animation: fadeInOut 2.5s infinite;
+  will-change: transform;
+  animation: fadeInOut 2.5s infinite; 
   display: inline-block;
 }
 
